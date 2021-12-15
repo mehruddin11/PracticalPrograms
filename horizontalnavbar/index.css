@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-container{
+    background-color: lightblue;
+    
+}
+.nav-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1.5rem;
+    color: green;
+}
+li{
+    list-style: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
